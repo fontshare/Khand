@@ -1,0 +1,10 @@
+name:Khand
+weight:700
+win_a:900
+win_d:230
+typo_a:900
+typo_d:-230
+hhea_a:900
+hhea_d:-230
+hhea_l:90
+typo_l:90
